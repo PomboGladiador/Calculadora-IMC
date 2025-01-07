@@ -121,11 +121,11 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 📞 Contato
 Seu Nome
 
-Email: seuemail@exemplo.com
+Email: renatorosifini@gmail.com
 
-LinkedIn: seu-linkedin
+LinkedIn: 
 
-GitHub: seu-usuario
+GitHub: https://github.com/PomboGladiador
 
 ⭐ Agradecimentos
 Agradeço à comunidade Flutter pelos recursos e apoio.
